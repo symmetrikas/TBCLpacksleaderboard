@@ -30,15 +30,19 @@
     if (rank = 8) {
         return 400;
     }
+    Consistency Pack I
     if (rank = 9) {
         return 150;
     }
+    Consistency Pack II
     if (rank = 10) {
         return 350;
     }
+    2 Player Pack
     if (rank = 11) {
         return 700;
     }
+    Memory Trials
     if (rank = 12) {
         return 300;
     }
