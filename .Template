@@ -1,0 +1,50 @@
+{
+    "id": 126798497,
+    "name": "Ship Pack",
+    "author": "can't believe you found it",
+    "creators": [],
+    "percentToQualify": "100",
+    "verifier": "FoldedZero",
+    "records": [
+        {
+            "user": "Rusty",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "finni1505",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Tomato",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Shluppy Puppy Gabpreme",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "zis76",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}
