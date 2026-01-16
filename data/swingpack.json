@@ -6,5 +6,10 @@
     "percentToQualify": "100",
     "verifier": "FoldedZero",
     "records": [
+        {
+            "user": "Shluppy Puppy Gabpreme",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
