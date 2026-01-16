@@ -6,5 +6,10 @@
     "percentToQualify": "100",
     "verifier": "Sadisyourlife",
     "records": [
+        {
+            "user": "Rusty",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
