@@ -56,6 +56,7 @@ export function score(rank, percent, minPercent) {
     if (rank = 15) {
         return 500;
     }
+}
 
 export function round(num) {
     if (!('' + num).includes('e')) {
