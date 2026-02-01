@@ -1,6 +1,5 @@
 [
     "shippack",
-    "shippack2",
     "wavepack",
     "cubepack",
     "robotpack",
@@ -8,7 +7,6 @@
     "ballspack",
     "daulpack",
     "consistencypack",
-    "consistencypack2",
     "memorytrials",
     "hankpack",
     "anatomypack",
