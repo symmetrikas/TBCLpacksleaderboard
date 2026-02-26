@@ -1,27 +1,34 @@
 [
     {
         "role": "owner",
-        "name": "Finni1505",
-        "link": "https://www.youtube.com/@MrGummelnase"
+        "name": "Yogurt11",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    
+    {
+        "role": "dev",
+        "name": "Yogurt11",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    
+    {
+        "role": "owner",
+        "name": "MayXaX",
+        "link": "https://www.youtube.com/@max528XDX"
     },
     {
         "role": "owner",
-        "name": "zis08",
-        "link": "https://youtube.com/@siz08675?si=1qpwrROqHTUbha0d"
+        "name": "Symm.",
+        "link": "https://www.youtube.com/@deniszsm"
     },
     {
-        "role": "admin",
-        "name": "Sadisyourlife",
-        "link": "https://www.youtube.com/@justaguy8255"
+        "role": "dev",
+        "name": "Symm.",
+        "link": "https://www.youtube.com/@deniszsm"
     },
     {
-        "role": "admin",
-        "name": "RustyGD",
-        "link": "https://youtube.com/@rusty_gd?si=ftntwvZEkLzmiikI"
-    },
-    {
-        "role": "helper",
-        "name": "FoldedZero",
-        "link": "https://www.youtube.com/@FoldedZero"
+        "role": "dev",
+        "name": "rkxlol",
+        "link": "https://www.youtube.com/@max528XDX"
     }
 ]
