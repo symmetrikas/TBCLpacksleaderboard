@@ -15,8 +15,12 @@ export function score(rank, percent, minPercent) {
     if (rank == 1) {
         return 125;
     }
-    //ALL CAPS PACK
+    //The Brajan Pack II
     if (rank == 2) {
+        return 150;
+    }
+    //ALL CAPS PACK
+    if (rank == 3) {
         return 100;
     }
 }
